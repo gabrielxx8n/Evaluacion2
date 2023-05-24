@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\bin\Debug\ServidorSocket.dll
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\bin\Debug\ServidorSocket.pdb
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\obj\Debug\ServidorSocket.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\obj\Debug\ServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\obj\Debug\ServidorSocket.dll
+C:\Users\gabri\source\repos\evaluacion2\ServidorSocket\obj\Debug\ServidorSocket.pdb

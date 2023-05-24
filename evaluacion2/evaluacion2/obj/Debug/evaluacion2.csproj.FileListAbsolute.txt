@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\evaluacion2.exe.config
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\evaluacion2.exe
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\evaluacion2.pdb
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\model.dll
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\ServidorSocket.dll
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\model.pdb
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\bin\Debug\ServidorSocket.pdb
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.csproj.CopyComplete
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.exe
+C:\Users\gabri\source\repos\evaluacion2\evaluacion2\obj\Debug\evaluacion2.pdb
